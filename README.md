@@ -6,12 +6,14 @@ Uma lanchonete trabalha com o sistema delivery e possui um cardápio com seus sa
 
 A partir dos requisitos acima, faça o seguinte:
 
-Construa o modelo conceitual (no BrModelo).
-Construa o modelo lógico (no MySQL Workbench)
-Construa o modelo físico.
-Crie uma inserção de um pedido mantendo as integridades referenciais e monte uma consulta para listar os pedidos em preparação.
-Entrega
+- Construa o modelo conceitual (no BrModelo).
+- Construa o modelo lógico (no MySQL Workbench)
+- Construa o modelo físico.
+- Crie uma inserção de um pedido mantendo as integridades referenciais e monte uma consulta para listar os pedidos em preparação.
+
+**Entrega**
+
 Pedimos para que, em grupos, crie o modelo conceitual para que vocês não tenham grandes problemas na hora de desenvolver os modelos lógico e físico. Sendo assim, a sua entrega deverá conter somente dois arquivos (em zip). São eles:
 
-Uma imagem: o modelo lógico (o diagrama feito dentro do MySQL Workbench) exportado como uma imagem;
-Um único arquivo de texto (extensão .txt): um único arquivo contendo o modelo físico (ex.: CREATE TABLE), as inserções de dados (ex.: INSERT INTO), e a consulta (ex.: SELECT)
+- Uma imagem: o modelo lógico (o diagrama feito dentro do MySQL Workbench) exportado como uma imagem;
+- Um único arquivo de texto (extensão .txt): um único arquivo contendo o modelo físico (ex.: CREATE TABLE), as inserções de dados (ex.: INSERT INTO), e a consulta (ex.: SELECT)
